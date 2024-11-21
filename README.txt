@@ -1,3 +1,3 @@
 Welcome to my website repo!
 
-Live at: sonimihir.github.io
+Live at: https://sonimihir.github.io
